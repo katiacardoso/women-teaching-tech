@@ -20,6 +20,7 @@ Para que o conteúdo faça sentido para esse repositório, antes de enviar uma s
 6. A ordem de inclusão é alfabética.
 7. Evite colocar termos genéricos como "tecnologia" nos tópicos. Use "tecnologia" quando o canal/curso não foca em nada específico.
 8. A descrição do canal deve estar em português (PT-BR).
+9. Adicione :moneybag: para cursos pagos. Caso tenha cursos gratuitos e pagos, adicione :moneybag: :free:
 
 ## Como contribuir?
 
